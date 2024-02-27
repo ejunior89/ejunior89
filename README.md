@@ -5,7 +5,6 @@
 
 - 🔭 Atualmente estou Buscando Emprego como Back-End Java/Python.
 - 🌱 Atualmente estou aprendendo Java/SpringBoot e Django.
-- 👯 Estou procurando colaborar em Projetos com Django.
 
 - ## Contatos:
 
