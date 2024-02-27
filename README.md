@@ -17,9 +17,9 @@
 
 # SKILLS
 
-           <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,java,c++,python" />
+    <img src="https://skillicons.dev/icons?i=javascript,django,java,flask,python,typescript,angular,react" />
   </a>
 </p>
           
