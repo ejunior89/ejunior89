@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 # 👋 Hello! Welcome to my Github.
 ## My name is Elio Junior and my nickname is "Junior"!
 
