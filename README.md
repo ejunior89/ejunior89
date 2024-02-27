@@ -17,7 +17,7 @@
 
 # SKILLS
 
-            <i class="devicon-angular-plain colored"></i>
+           [![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,django,flask,springboot,)](https://skillicons.dev)
           
 
  <div>
