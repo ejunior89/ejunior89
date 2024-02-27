@@ -17,7 +17,11 @@
 
 # SKILLS
 
-           [![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,django,flask,springboot,)](https://skillicons.dev)
+           <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,django,java,c++,python" />
+  </a>
+</p>
           
 
  <div>
