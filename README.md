@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,java,python,angular,kotlin,spring boot,ktor,html,css,Ktor" />
+    <img src="https://skillicons.dev/icons?i=django,java,python,angular,kotlin,spring boot,html,css,Ktor" />
   </a>
 </p>
           
