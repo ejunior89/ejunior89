@@ -2,7 +2,7 @@
 
 # 👋 Hello! Welcome to my Github
 
-## My name is Elio Junior and my nickname is "Junior"
+# My name is Elio Junior and my nickname is "Junior"
 
 - 🔭 Atualmente estou Estudando para Atuar como Back-End Java/Python.
 - 🌱 Atualmente estou aprendendo Java/SpringBoot e Django.
