@@ -4,8 +4,8 @@
 
 # My name is Elio Junior and my nickname is "Junior"
 
-- 🔭 Atualmente estou Estudando para Atuar como Back-End Java/Python.
-- 🌱 Atualmente estou aprendendo Java/SpringBoot e Django.
+- 🔭 Atualmente estou Estudando para Atuar como Back-End Java.
+- 🌱 Atualmente estou aprendendo Java/SpringBoot.
 
 - ## Contatos
 
@@ -17,8 +17,6 @@
 # SKILLS
 
 <div align="center">
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
- <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
