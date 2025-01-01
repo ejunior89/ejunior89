@@ -4,7 +4,7 @@
 
 # My name is Elio Junior and my nickname is "Junior"
 
-- 🔭 Atualmente estou Estudando para Atuar como Back-End Java.
+- 🔭 Atualmente estou Estudando para Atuar com Java.
 - 🌱 Atualmente estou aprendendo Java/SpringBoot.
 
 - ## Contatos
