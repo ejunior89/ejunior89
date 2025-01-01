@@ -27,8 +27,8 @@ I'm passionate about technology and programming. I enjoy learning new skills and
 
 ## 🌟 Projects
 
-- [Project 1](https://github.com/ejunior89/project1): A brief description of what this project does.
-- [Project 2](https://github.com/ejunior89/project2): A brief description of what this project does.
+- [SGE](https://github.com/ejunior89/SGE): a web application made with django, for inventory control.
+- [Flix api ](https://github.com/ejunior89/Flix-Api-DJango-Master-PycodeBr): building a crud rest full api for registering films, actors, film reviews, etc. using the django rest framework.
 
 ## 📫 Contact
 
