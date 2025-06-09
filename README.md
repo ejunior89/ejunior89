@@ -35,6 +35,12 @@ I'm passionate about technology and programming. I enjoy learning new skills and
 <div>
   <a href="mailto:eliomaiajunior@proton.me"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ejunior89" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/ejunior_" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+  </a>
+  <a href="https://kick.com/ejunior1914" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Kick-52FF00?style=for-the-badge&logo=kickstarter&logoColor=black" alt="Kick">
+  </a>
 </div>
 
 ## 📊 GitHub Stats
