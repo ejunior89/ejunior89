@@ -4,12 +4,15 @@
 
 ## My name is Elio Junior, but you can call me "Junior"
 
-- 🔭 Atualmente estou estudando para atuar com Java.
-- 🌱 Atualmente estou aprendendo Java/SpringBoot.
+- 🔭 Atualmente estou estudando para atuar com **Java**.
+- 🌱 Foco atual: **Java / Spring Boot**.
+- 🧠 Gosto de entender como as coisas funcionam por baixo dos panos.
 
 ## 🚀 About Me
 
-I'm passionate about technology and programming. I enjoy learning new skills and applying them to solve real-world problems. My primary focus is on Java development, but I'm also interested in web development and databases.
+Sou apaixonado por tecnologia e programação. Curioso por natureza, autodidata por necessidade. Gosto de aprender coisas novas e aplicá-las em projetos reais — nada de código de tutorial que nunca sai do papel.
+
+Atualmente tenho estudado com afinco o ecossistema Java, incluindo Spring Boot, JPA, PostgreSQL e afins.
 
 ## 💼 Skills
 
@@ -27,8 +30,17 @@ I'm passionate about technology and programming. I enjoy learning new skills and
 
 ## 🌟 Projects
 
-- [SGE](https://github.com/ejunior89/SGE): a web application made with django, for inventory control.
-- [Flix api ](https://github.com/ejunior89/Flix-Api-DJango-Master-PycodeBr): building a crud rest full api for registering films, actors, film reviews, etc. using the django rest framework.
+- [SGE](https://github.com/ejunior89/SGE): aplicação web feita com Django para controle de estoque.
+- [Flix API](https://github.com/ejunior89/Flix-Api-DJango-Master-PycodeBr): CRUD de filmes, atores e avaliações usando Django REST Framework.
+- [Kick View Counter](https://github.com/ejunior89/kick-view-counter): contador de views customizado para streamers da plataforma Kick. Feito em HTML+SVG, pronto para virar widget público.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejunior89&layout=compact&langs_count=7&theme=dracula&size_weight=0&count_weight=1" alt="Top Langs"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ejunior89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</div>
 
 ## 📫 Contact
 
@@ -40,15 +52,5 @@ I'm passionate about technology and programming. I enjoy learning new skills and
   </a>
   <a href="https://kick.com/ejunior1914" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Kick-52FF00?style=for-the-badge&logo=kickstarter&logoColor=black" alt="Kick">
-  </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/ejunior89">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejunior89&layout=compact&langs_count=7&theme=dracula"/>
-    <br></br>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ejunior89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
