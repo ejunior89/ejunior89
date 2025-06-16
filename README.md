@@ -53,4 +53,5 @@ Atualmente tenho estudado com afinco o ecossistema Java, incluindo Spring Boot, 
   <a href="https://kick.com/ejunior1914" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Kick-52FF00?style=for-the-badge&logo=kickstarter&logoColor=black" alt="Kick">
   </a>
+  <a href="https://coff.ee/ejunior89" target="_blank">👉 [Buy Me a Coffee]</a>
 </div>
