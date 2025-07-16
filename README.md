@@ -69,4 +69,7 @@ Atualmente, meu foco principal de estudos e desenvolvimento é o **ecossistema J
   <a href="https://kick.com/ejunior1914" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Kick-52FF00?style=for-the-badge&logo=kickstarter&logoColor=black" alt="Kick">
   </a>
+  <a href="https://www.buymeacoffee.com/ejunior89" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
 </div>
