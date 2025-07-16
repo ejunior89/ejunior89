@@ -36,7 +36,7 @@ Atualmente tenho estudado com afinco o ecossistema Java, incluindo Spring Boot, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejunior89&layout=compact&langs_count=7&theme=dracula&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejunior89&layout=compact&langs_count=7&theme=dracula&size_weight=0.8&count_weight=0.2" alt="Top Langs"/>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ejunior89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
